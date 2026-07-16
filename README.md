@@ -30,3 +30,7 @@ Total Amount Spent = 170.0
 
 Thank you for using Expense Tracker!
 ```
+
+## Output Screenshot
+
+![Expense Tracker Output](output.png)
